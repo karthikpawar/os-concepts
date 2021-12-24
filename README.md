@@ -1,3 +1,3 @@
 # os-concepts
 
-| 1. | [PID Manager](./main.c) |
+| 1. | [PID Manager](#PID manager) |
